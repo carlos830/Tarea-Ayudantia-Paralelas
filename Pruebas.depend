@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1544926413 source:c:\users\hp chile\desktop\refinamiento-de-malla-master\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<conio.h>
+	<math.h>
+	<stdlib.h>
+
+1544926414 source:d:\codeblocks\archivos\grupo8refinamiento\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<conio.h>
+	<math.h>
+	<stdlib.h>
+
